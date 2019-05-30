@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D24V10F3
+D Pololu Step-Down 3,3V 1A
+F https://www.pololu.com/product/2830
+$ENDCMP
+#
+$CMP XM1584
+D XM1584 Switching Voltage Regulator Module
+K Regulator DCDC
+$ENDCMP
+#
+#End Doc Library
